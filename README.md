@@ -1,4 +1,5 @@
 SentinelCloud: AI-Powered Uptime Monitor
+
 This is a full-stack monitoring solution designed to track website availability and detect performance anomalies in real-time. Using a "Rolling Window" statistical approach, the system identifies when a website's response time is significantly higher than its historical average, providing actionable "Warning" alerts rather than just simple "Down" notifications.
 
 🚀 Key Features
